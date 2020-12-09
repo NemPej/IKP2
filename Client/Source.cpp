@@ -26,7 +26,7 @@ int __cdecl main(int argc, char** argv)
 	// variable used to store function return value
 	int iResult;
 	// message to send
-	const char* messageToSend = "this is a test";
+	const char* messageToSend = "this is a test";   
 
 	// Validate the parameters
 	if (argc != 2)
